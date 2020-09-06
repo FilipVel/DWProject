@@ -1,0 +1,36 @@
+# Add a header and sample content section
+- header: Content
+
+- title: Introduction
+  url: /01Introduction/introduction
+  not_numbered: true
+  
+- divider: true
+
+- title: Setting up the Databases  
+  url: /02Set_up_the_Databases/databases
+  not_numbered: true
+
+- title: Initial Web Scraping  
+  url: /03Initial/initial
+  not_numbered: true
+
+- title: Scheduled Web Scraping  
+  url: /04Scheduled/scheduled
+  not_numbered: true
+
+- title: ETL Process  
+  url: /05ETL/ETL
+  not_numbered: true
+
+- title: Tableau Visualization
+  url: /06Tableau/Tableau
+  not_numbered: true
+
+
+- divider: true
+
+- title: Github Repository 
+  url: https://github.com/FilipVel/DWProject
+  external: true
+  not_numbered: true
