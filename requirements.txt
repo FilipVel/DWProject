@@ -10,4 +10,7 @@ folium
 matplotlib
 nbinteract
 scipy
+pymongo
+sqlachemy
+psycopg2
 jupyter-book
